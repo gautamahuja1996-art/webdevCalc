@@ -37,6 +37,24 @@
 }
 
 .mainContainer{
-    background-color: black;
     text-align: center;
+    padding: 20px 0px;
+}
+
+.textBox{
+    font-size: 60px;
+    text-align: center;
+    padding-left: 160px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.mainHeading{
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-color: black;
 }
